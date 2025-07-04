@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1751591755 source:c:\users\diego\desktop\proyectov.1\proyectov.1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<fstream>
+	<sstream>
+
